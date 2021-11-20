@@ -7,3 +7,6 @@
 - 🌱 I’m currently learning and developing with Python, Javascript, React and Flutter
 - 👯 I’m looking to collaborate on machine learning/web application projects
 - ⚡ Fun fact: I also like to play music, sing, and produce music
+
+
+![Lovelyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelyoyrmia&show_icons=true&theme=radical)
