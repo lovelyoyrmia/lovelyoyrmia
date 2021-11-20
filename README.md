@@ -12,11 +12,10 @@
 | <a href="https://github.com/lovelyoyrmia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lovelyoyrmia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lovelyo's github stats" /></a> | <a href="https://github.com/lovelyoyrmia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyoyrmia&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### Top Repositories
+### Languages and Tools
 
-<a href="https://github.com/lovelyoyrmia/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lovelyoyrmia&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/lovelyoyrmia/lovelyoyrmia.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lovelyoyrmia&repo=lovelyoyrmia.github.io&theme=buefy" />
-</a>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>    
