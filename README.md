@@ -1,12 +1,16 @@
 ### Hi I'm Lovelyo Yeremia👋
 
-![Profile's Visit](https://profile-counter.glitch.me/lovelyoyrmia/count.svg)
+![Lovelyo Profile Visits](https://komarev.com/ghpvc/?username=lovelyormia&color=000000&label=Profile+Visit's) &nbsp;&nbsp;
 
 - 👀 I’m interested in Machine Learning, AI, Web/Android development and learning new things
 - 🔭 I’m currently majoring in Information Tech / Infomatics Engeneering at Gundarma University
 - 🌱 I’m currently learning and developing Python, Javascript and React
 - 👯 I’m looking to collaborate on machine learning/web application projects
 - ⚡ Fun fact: I also like to play music, sing, and produce music
+
+### Find Me
+
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=mokalulovelyo@gmail.com) &nbsp;&nbsp; [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/lovelyo-mokalu-a831aa175)
 
 ### Languages and Tools
 
