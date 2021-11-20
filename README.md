@@ -1,6 +1,6 @@
 ### Hi I'm Lovelyo Yeremia👋
 
-![Visitor Count](https://profile-counter.glitch.me/lovelyoyrmia/count.svg)
+![Profile's Visit](https://profile-counter.glitch.me/lovelyoyrmia/count.svg)
 
 - 👀 I’m interested in Machine Learning, AI, Web/Android development and learning new things
 - 🔭 I’m currently majoring in Information Tech / Infomatics Engeneering at Gundarma University
