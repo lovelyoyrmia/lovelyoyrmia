@@ -9,4 +9,5 @@
 - ⚡ Fun fact: I also like to play music, sing, and produce music
 
 
-![Lovelyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelyoyrmia&show_icons=true&theme=radical)
+| <a href="https://github.com/lovelyoyrmia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lovelyoyrmia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lovelyo's github stats" /></a> | <a href="https://github.com/lovelyoyrmia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyoyrmia&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
