@@ -1,6 +1,6 @@
 ### Hi I'm Lovelyo Yeremia👋
 
-![Lovelyo Profile Visits](https://komarev.com/ghpvc/?username=lovelyormia&color=000000&label=Profile+Visit's) &nbsp;&nbsp;
+![Lovelyo Profile Visits](https://komarev.com/ghpvc/?username=lovelyormia&color=000000&label=Profile+Visit's) &nbsp;&nbsp;  [![wakatime](https://wakatime.com/badge/user/a9d60328-874e-4664-8b60-f55e1b63defd.svg)](https://wakatime.com/@a9d60328-874e-4664-8b60-f55e1b63defd)
 
 - 👀 I’m interested in Machine Learning, AI, Web/Android development and learning new things
 - 🔭 I’m currently majoring in Information Tech / Infomatics Engeneering at Gunadarma University
