@@ -3,7 +3,7 @@
 ![Lovelyo Profile Visits](https://komarev.com/ghpvc/?username=lovelyormia&color=000000&label=Profile+Visit's) &nbsp;&nbsp;
 
 - 👀 I’m interested in Machine Learning, AI, Web/Android development and learning new things
-- 🔭 I’m currently majoring in Information Tech / Infomatics Engeneering at Gundarma University
+- 🔭 I’m currently majoring in Information Tech / Infomatics Engeneering at Gunadarma University
 - 🌱 I’m currently learning and developing Python, Javascript and React
 - 👯 I’m looking to collaborate on machine learning/web application projects
 - ⚡ Fun fact: I also like to play music, sing, and produce music
