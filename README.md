@@ -25,7 +25,7 @@
 | ![Lovelyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelyoyrmia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyoyrmia&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-| ![Lovelyo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lovelyoyrmia)](https://wakatime.com/@lovelyoyrmia)| ![Lovelyo's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=lovelyoyrmia)] |
+| ![Lovelyo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lovelyoyrmia) | ![Lovelyo's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=lovelyoyrmia) |
 | ------------- | ------------- |
 
 
