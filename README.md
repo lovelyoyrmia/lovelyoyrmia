@@ -29,7 +29,6 @@
 | ------------- | ------------- |
 
 |:-------------------------:|:-------------------------:|
-|<img src='assets/contrast.gif' alt=''>  |  <img src='assets/rm-bg.gif' alt=''>|
 |<img src="https://wakatime.com/share/@lovelyoyrmia/91d147aa-1a97-4d8b-9be6-7861876b6867.svg" alt="logo" > | <img src="https://wakatime.com/share/@lovelyoyrmia/4c8b6085-4a4d-4fd0-838f-851faab4c966.svg" >|
 
     
