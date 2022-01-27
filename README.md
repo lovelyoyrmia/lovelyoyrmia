@@ -28,6 +28,6 @@
 | ![Lovelyo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lovelyoyrmia) | ![Lovelyo's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=lovelyoyrmia) |
 | ------------- | ------------- |
 
-<figure><embed src="https://wakatime.com/share/@lovelyoyrmia/91d147aa-1a97-4d8b-9be6-7861876b6867.svg"></embed></figure>
+| <figure><embed src="https://wakatime.com/share/@lovelyoyrmia/91d147aa-1a97-4d8b-9be6-7861876b6867.svg"></embed></figure> |
 
     
