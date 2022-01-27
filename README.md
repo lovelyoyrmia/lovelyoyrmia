@@ -22,7 +22,7 @@
 
 ### Operating System
 
-[<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" >]()  &nbsp;&nbsp;  [<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">]() &nbsp;&nbsp; [<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">]() 
+[<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" >](https://www.microsoft.com/en-id/windows)  &nbsp;&nbsp;  [<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">](https://www.linux.org/) &nbsp;&nbsp; [<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">](https://ubuntu.com/wsl) 
 
 ### Statistics
 
