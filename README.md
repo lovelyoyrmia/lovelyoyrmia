@@ -30,6 +30,6 @@
 
 | **Operating System**      |        **Languages**      |
 |:-------------------------:|:-------------------------:|
-<img src="https://wakatime.com/share/@lovelyoyrmia/91d147aa-1a97-4d8b-9be6-7861876b6867.svg" alt="logo" style="500px;"> | <img src="https://wakatime.com/share/@lovelyoyrmia/4c8b6085-4a4d-4fd0-838f-851faab4c966.svg" alt="" style="500px;">|
+<img src="https://wakatime.com/share/@lovelyoyrmia/91d147aa-1a97-4d8b-9be6-7861876b6867.svg" alt="logo" style="width:500px;"> | <img src="https://wakatime.com/share/@lovelyoyrmia/4c8b6085-4a4d-4fd0-838f-851faab4c966.svg" alt="" style="width:500px;">|
 
     
