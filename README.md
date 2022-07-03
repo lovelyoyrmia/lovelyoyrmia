@@ -2,10 +2,10 @@
 
 ![Lovelyo Profile Visits](https://komarev.com/ghpvc/?username=lovelyormia&color=000000&label=Profile+Visit's) &nbsp;&nbsp;  [![wakatime](https://wakatime.com/badge/user/a9d60328-874e-4664-8b60-f55e1b63defd.svg)](https://wakatime.com/@a9d60328-874e-4664-8b60-f55e1b63defd)
 
-- 👀 I’m interested in Machine Learning, AI, Web/Android development and learning new things
-- 🔭 I’m currently majoring in Computer Science at Gunadarma University
-- 🌱 I’m currently learning and developing Python, Javascript and React
-- ⚡ Fun fact: I also like to play music, sing, and produce music
+- 👀 I’m interested in Machine Learning, AI, Web/Android development and learning new things.
+- 🔭 I’m currently majoring in Computer Science at Gunadarma University.
+- 🌱 I’m currently learning about Machine Learning and Data Visualization.
+- ⚡ Fun fact: I also like to play music, sing, and produce music.
 
 ### Find Me
 
