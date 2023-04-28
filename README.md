@@ -2,6 +2,10 @@
 
 ![Lovelyo Profile Visits](https://komarev.com/ghpvc/?username=lovelyormia&color=000000&label=Profile+Visit's) &nbsp;&nbsp;  [![wakatime](https://wakatime.com/badge/user/a9d60328-874e-4664-8b60-f55e1b63defd.svg)](https://wakatime.com/@a9d60328-874e-4664-8b60-f55e1b63defd)
 
+- 👀 I’m interested in Software Engineering and learning new things.
+- 🔭 I’m currently majoring in Computer Science at Gunadarma University.
+- ⚡ Fun fact: I also like to play music, sing, and produce music.
+
 ### Find Me
 
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=mokalulovelyo@gmail.com) &nbsp;&nbsp; [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/lovelyoyrmia) &nbsp;&nbsp; [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/lovelyoyrmia)
