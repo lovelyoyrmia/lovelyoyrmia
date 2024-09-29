@@ -3,7 +3,7 @@
 ![Lovelyo Profile Visits](https://komarev.com/ghpvc/?username=lovelyormia&color=000000&label=Profile+Visit's) &nbsp;&nbsp;  [![wakatime](https://wakatime.com/badge/user/a9d60328-874e-4664-8b60-f55e1b63defd.svg)](https://wakatime.com/@a9d60328-874e-4664-8b60-f55e1b63defd)
 
 - 👀 I’m interested in Software Engineering and learning new things.
-- 🔭 I’m a fresh graduate at Gunadarma University.
+- 🔭 I’m a Software Engineer at Raya Bank.
 - ⚡ Fun fact: I also like to play music, sing, and produce music.
 
 ### Find Me
